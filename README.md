@@ -1,1 +1,1 @@
-# Apple_Retail_Sales_Analysis_SQL
+Sales for Retail and Food Services in U.S.A
